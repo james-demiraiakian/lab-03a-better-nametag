@@ -33,6 +33,10 @@ main {
     font-family: 'Eagle Lake', cursive;
 }
 
+#proDisplay {
+    font-size: 1rem;
+}
+
 footer {
     width: 400px;
     background-color: rgb(144, 79, 206);
